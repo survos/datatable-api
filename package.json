@@ -1,0 +1,11 @@
+{
+  "name": "survos-datatables",
+  "version": "1.0.0",
+  "description": "plugin for using datatables with api-platform",
+  "main": "index.js",
+  "repository": "github.com/survos/datatable-api",
+  "author": "Tac Tacelosky <tacman@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "files": ["index.js", "lib/*.js", "bin/*.js"]
+}
