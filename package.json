@@ -13,7 +13,7 @@
     "bin/*.js"
   ],
   "dependencies": {
-    "datatables.net-buttons-bs5": "^1.6.5",
+    "@types/datatables.net-buttons": "^1.4.7",
     "datatables.net-scroller-bs5": "^2.0.3",
     "jquery": "^3.5.1",
     "datatables.net-bs5": "^1.10.23",
